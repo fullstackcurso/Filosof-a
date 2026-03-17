@@ -1,17 +1,23 @@
-# Filosofía y Manifiesto
+> **Nota:** Este documento es un ensayo de opinión personal sobre el acceso a la cultura digital.
+> No está vinculado a ningún repositorio, código fuente ni addon concreto.
+> Las opiniones expresadas no fomentan ni aprueban la infracción de derechos de autor.
 
-Este proyecto nace con la intención de **facilitar el acceso a la cultura audiovisual** y no de sustituir a los servicios oficiales. Cabe destacar que la gran mayoría de los enlaces encontrados por esta herramienta apuntan a contenidos de **baja resolución** (frecuentemente inferiores a 720p), lo que dista mucho de la experiencia *premium* que ofrecen las plataformas de pago.
+---
 
-## Publicidad y Marketing Orgánico
+# Reflexiones sobre el Acceso a la Cultura Digital
 
-Paradójicamente, este tipo de acceso actúa a menudo como una puerta de entrada y una **potente herramienta de publicidad gratuita**. Ver un episodio suelto o un programa a través de estas vías puede llevar al usuario a comentarlo y compartirlo en redes sociales, generando un ruido digital y un marketing orgánico para la cadena original que, de otro modo, no existiría. Muchos usuarios descubren contenido aquí y, al engancharse, buscan una experiencia superior y mayor comodidad, terminando por **migrar a servicios de suscripción oficiales**.
+El acceso a la cultura audiovisual en la era digital plantea un debate complejo entre la protección de los derechos de autor y la accesibilidad universal. La gran mayoría del contenido disponible libremente en internet es de baja resolución (frecuentemente inferior a 720p), lo que dista mucho de la experiencia que ofrecen las plataformas de pago.
+
+## Descubrimiento y Efecto Escaparate
+
+En muchos casos, el acceso parcial o en baja calidad a un contenido actúa como escaparate: ver un episodio suelto puede llevar al usuario a comentarlo en redes sociales, generando visibilidad para la cadena original. Muchos espectadores, al engancharse, terminan por buscar una experiencia superior y migran a servicios de suscripción oficiales.
 
 ## Accesibilidad y Realidad Económica
 
-Quienes deciden permanecer consumiendo en baja calidad suelen hacerlo por **barreras económicas**, no por elección; esto significa que rara vez representan una pérdida real de clientes comerciales. Restringir este acceso no convierte a estos usuarios en suscriptores, sino que simplemente amplía la brecha cultural y limita el acceso a la información.
+Quienes consumen contenido en baja calidad suelen hacerlo por barreras económicas, no por elección. Rara vez representan una pérdida real de clientes comerciales. Restringir el acceso no convierte a estos usuarios en suscriptores, sino que amplía la brecha cultural.
 
-> Cuando la oferta oficial es sencilla, asequible y de calidad, el usuario tiende a elegirla naturalmente por encima de cualquier otra opción.
+> Cuando la oferta oficial es sencilla, asequible y de calidad, el usuario tiende a elegirla naturalmente.
 
-## Preservación Histórica
+## Preservación Digital
 
-Finalmente, la presencia de estos archivos en la red cumple una función involuntaria de **preservación histórica**. Actúa como una "cápsula del tiempo" para contenido antiguo, descatalogado o de nicho que ya ha desaparecido de los catálogos comerciales, asegurando que estas obras no se pierdan para siempre en el olvido digital.
+La disponibilidad de archivos en internet cumple en ocasiones una función de preservación para contenido antiguo, descatalogado o de nicho que ha desaparecido de los catálogos comerciales.
